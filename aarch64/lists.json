@@ -1,5 +1,5 @@
 [
-	["ubuntu22.04.2-aarch64-2023.02.27", "2023.02.27-ubuntu-22.04.1.tar.gz"],
+	["ubuntu22.04.2-aarch64-2023.02.27", "https://github.com/rain-gfd/chroot-system/releases/download/2023.02.27-ubuntu-22.04.1-aarch64/2023.02.27-ubuntu-22.04.1-aarch64.tar.gz"],
 	["ubuntu22.04.1-aarch64-2022.12.01", "2022.12.01-ubuntu22.04.1.tar.gz"],
 	["ubuntu22.04.1-aarch64-2022.11.30", "2022.11.30-ubuntu22.04.1.tar.gz"]
 ]
